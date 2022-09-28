@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yang Yu</h1>
 <h3 align="center">A full-stack web app developer</h3>
 <img height='300' width="370" align='right' src="https://github.com/peteryoungy/peteryoungy/blob/main/puppy.gif">
+
 - 💬 Ask me about **Algorithms, React**
 
 - 📫 How to reach me **peteryoungy98@gmail.com**
@@ -19,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peteryoungy&show_icons=true&locale=en" alt="peteryoungy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peteryoungy&" alt="peteryoungy" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=peteryoungy&" alt="peteryoungy" /></p>

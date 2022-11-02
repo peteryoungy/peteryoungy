@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yang Yu</h1>
 <h3 align="center">A full-stack web app developer</h3>
-<img height='300' width="370" align='right' src="https://github.com/peteryoungy/peteryoungy/blob/main/puppy.gif">
-
+[//]:#(<img height='300' width="370" align='right' src="https://github.com/peteryoungy/peteryoungy/blob/main/puppy.gif">)
 - 💬 Ask me about **Algorithms, React**
 
 - 📫 How to reach me **peteryoungy98@gmail.com**
